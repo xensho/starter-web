@@ -8,7 +8,8 @@
 # THANKS
 
     To all of my students.
-    Thumbs up if you liked my VIM editor.
+    Thumbs up if you liked my VIM editor
+    Inc.
 
 # TECHNOLOGY COLOPHON
 
